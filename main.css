@@ -62,7 +62,7 @@ input[type="number"]::-webkit-inner-spin-button {
     right: 25%;
     position: absolute;
     border-radius: 5px;
-    background-color: #17A2B8;
+    background-color: #2A8ACC;
 }
 
 .range-input {
@@ -85,7 +85,7 @@ input[type="range"]::-webkit-slider-thumb {
     border-radius: 50%;
     pointer-events: auto;
     -webkit-appearance: none;
-    background-color: #17A2B8;
+    background-color: #00275A;
 }
 
 input[type="range"]::-moz-range-thumb {
@@ -95,5 +95,5 @@ input[type="range"]::-moz-range-thumb {
     border-radius: 50%;
     pointer-events: auto;
     -moz-appearance: none;
-    background-color: #17A2B8;
+    background-color: #00275A;
 }
